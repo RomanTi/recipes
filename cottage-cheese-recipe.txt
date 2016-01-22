@@ -1,0 +1,4 @@
+ingridients:
+
+milk 7L
+kefir 0.5L
